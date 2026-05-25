@@ -2743,7 +2743,7 @@ dev = [
     { name = "ruff", specifier = ">=0.12.2,<0.13" },
     { name = "types-certifi", specifier = ">=2021.10.8,<2022" },
     { name = "types-freezegun", specifier = ">=1.1.7,<2" },
-    { name = "types-mock", specifier = ">=5.0.0.5,<6" },
+    { name = "types-mock", specifier = ">=5.2.0.20260408,<6" },
     { name = "types-python-dateutil", specifier = ">=2.9.0,<3" },
     { name = "types-redis", specifier = ">=4.6.0,<5" },
     { name = "types-requests", specifier = ">=2.32.4,<3" },
@@ -2945,11 +2945,11 @@ wheels = [
 
 [[package]]
 name = "types-mock"
-version = "5.2.0.20250809"
+version = "5.2.0.20260408"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/b5/99/c7299239f1421387c3cede84ea0ce773442bcdaa1fb8e02424087ebcfbb9/types_mock-5.2.0.20250809.tar.gz", hash = "sha256:9548ebc2fbb3859f0765c8215f0b063897a58a58930f95467a814a9c9de76b16", size = 11222, upload-time = "2025-08-09T03:13:56.803Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/51/4f/a17fd8f0bdeb8d97842e4a825907e7ef7d0360e29728b7a0442d245e28e9/types_mock-5.2.0.20260408.tar.gz", hash = "sha256:0bca3ca21943ba25bca6888b2383b91938f5978a189c840656e255073d53868d", size = 11494, upload-time = "2026-04-08T04:31:46.301Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/5a/82/0a2b1e779c0cb91312aaa5c61beada024a45392f6960f19da68c9c0040f2/types_mock-5.2.0.20250809-py3-none-any.whl", hash = "sha256:e81a5f5ae222b0a0e92401cb429ed44e5dc238f900e876dc6183cc5e649f336d", size = 10475, upload-time = "2025-08-09T03:13:55.764Z" },
+    { url = "https://files.pythonhosted.org/packages/5f/f8/dc90b73af9c04a9ff89eb785d4b63482ac74c365668a22a0b609a8e90ce9/types_mock-5.2.0.20260408-py3-none-any.whl", hash = "sha256:7754cdaadb81127124804acf2abea413705c1ac22f7bd2bd8417710d2e507216", size = 10500, upload-time = "2026-04-08T04:31:45.404Z" },
 ]
 
 [[package]]
